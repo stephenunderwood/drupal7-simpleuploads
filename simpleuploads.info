@@ -1,0 +1,5 @@
+name = Simpleuploads
+description = "Adds php uploader for the simpleuploads ckeditor plugin"
+package = PMD Custom
+core = 7.x
+files[] = simpleuploads.module
